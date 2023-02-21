@@ -24,4 +24,7 @@ fun main() {
 
   range()
   println()
+
+  breakAndContinue()
+  println()
 }
