@@ -13,4 +13,9 @@ fun main() {
   enumeration()
   println()
 
+  expressionsAndStatement()
+  println()
+
+  whenExpression()
+  println()
 }
