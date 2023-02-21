@@ -18,4 +18,7 @@ fun main() {
 
   whenExpression()
   println()
+
+  whileAndDoWhile()
+  println()
 }
