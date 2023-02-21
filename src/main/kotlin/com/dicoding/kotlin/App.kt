@@ -21,4 +21,7 @@ fun main() {
 
   whileAndDoWhile()
   println()
+
+  range()
+  println()
 }
