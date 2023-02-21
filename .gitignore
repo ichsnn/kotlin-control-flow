@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/build/
+/src/main/kotlin/com/dicoding/kotlin/DataTypesAndVariable.kt
